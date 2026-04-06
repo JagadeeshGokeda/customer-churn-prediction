@@ -24,18 +24,6 @@
 
 ---
 
-## 📈 Model Performance
-
-(You can update this after training your model)
-
-| Metric        | Value |
-|--------------|------|
-| Accuracy     | XX%  |
-| Precision    | XX%  |
-| Recall       | XX%  |
-| F1 Score     | XX%  |
-
----
 
 ## 🛠️ Future Improvements
 
@@ -48,7 +36,7 @@
 
 ## 👨‍💻 Author
 
-- **Jagadeesh**  
+- **Jagadeesh gokeda**  
 - BTech Student  
 - Project: Customer Churn Prediction System
 
